@@ -1,4 +1,3 @@
-cat renewCert.sh 
 #!/bin/bash
 
 certbot_command="sudo certbot"
